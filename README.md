@@ -38,7 +38,7 @@
 
 User welcome screen with navigation shortcuts and application branding.
 
-![Home Page](assets/Images/homepage.png)
+![Home Page](assets/images/homepage.png)
 
 ---
 
@@ -46,7 +46,7 @@ User welcome screen with navigation shortcuts and application branding.
 
 Project value analysis by sector and status with interactive filters.
 
-![Project Dashboard](assets/Images/grafico_setores.png)
+![Project Dashboard](assets/images/grafico_setores.png)
 
 ---
 
@@ -54,7 +54,7 @@ Project value analysis by sector and status with interactive filters.
 
 Comparison between budgeted and negotiated values with yearly filtering.
 
-![Budget Analysis](assets/Images/grafico_barras.png)
+![Budget Analysis](assets/images/grafico_barras.png)
 
 ---
 
@@ -62,7 +62,7 @@ Comparison between budgeted and negotiated values with yearly filtering.
 
 Executive KPI overview including project funnel analysis and key business metrics.
 
-![KPIs](assets/Images/kpis.png)
+![KPIs](assets/images/kpis.png)
 
 ---
 
@@ -70,7 +70,7 @@ Executive KPI overview including project funnel analysis and key business metric
 
 Admin page for creating new user accounts and managing permissions.
 
-![Create Account](assets/Images/criar_conta.png)
+![Create Account](assets/images/criar_conta.png)
 
 ---
 
@@ -78,7 +78,7 @@ Admin page for creating new user accounts and managing permissions.
 
 Administrative menu with access to user management features.
 
-![Admin Menu](assets/Images/menu_admin.png)
+![Admin Menu](assets/images/menu_admin.png)
 
 ---
 
@@ -86,7 +86,7 @@ Administrative menu with access to user management features.
 
 Restricted menu for standard users.
 
-![Standard User Menu](assets/Images/menu_comum.png)
+![Standard User Menu](assets/images/menu_comum.png)
 
 ---
 
