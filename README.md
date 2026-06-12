@@ -1,5 +1,7 @@
 # ProjectPulse
 
+Project Performance Monitoring & Business Intelligence Platform
+
 **ProjectPulse** is a project performance monitoring and business intelligence platform developed with Python and Streamlit. The application provides interactive dashboards, KPI tracking, project status analysis, user authentication, role-based access control, and project management insights through dynamic visualizations.
 
 ---
