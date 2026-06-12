@@ -1,0 +1,22 @@
+# Ambiente Virtual (uv / venv)
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled / arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit (Ignora segredos/senhas, mas mantém as configurações de tema)
+.streamlit/secrets.toml
+
+# IDEs (VS Code e PyCharm)
+.vscode/
+.idea/
+
+# Sistema Operacional (Windows)
+Thumbs.db
+desktop.ini
+
